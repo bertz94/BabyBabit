@@ -1,0 +1,12 @@
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\bin\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.deps.json
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\bin\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.runtimeconfig.json
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\bin\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.runtimeconfig.dev.json
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\bin\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.dll
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\bin\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.pdb
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\obj\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.csprojAssemblyReference.cache
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\obj\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.AssemblyInfoInputs.cache
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\obj\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.AssemblyInfo.cs
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\obj\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.csproj.CoreCompileInputs.cache
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\obj\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.dll
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\obj\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.pdb
+C:\Dev\BabyBabit\BabyBabit\src\BabyBabit\obj\Release\netcoreapp2.1\rhel.7.2-x64\BabyBabit.genruntimeconfig.cache
