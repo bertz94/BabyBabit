@@ -77,7 +77,7 @@ namespace BabyBabit
             string intervalString = interval(span);
             if (intervalString != null)
             {
-                var request = (HttpWebRequest)WebRequest.Create("http://api.telegram.org/bot1079609971:AAHyvQQBnvJ2X3WGRdjD2ISQ3Ixfd--iXww/sendMessage?chat_id=-449591202&text=" + intervalString);
+                var request = (HttpWebRequest)WebRequest.Create("http://api.telegram.org/bot<BOT>/sendMessage?chat_id=<CHAT_ID>&text=" + intervalString);
                 var content = string.Empty;
                 using (var response = (HttpWebResponse)request.GetResponse())
                 {
